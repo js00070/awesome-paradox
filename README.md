@@ -36,8 +36,13 @@ A curated list of awesome open source projects related to Paradox Games.
 - [Vic3-mapdata-editor](https://github.com/Linnest2020/Vic3-mapdata-editor) Vic3 mapdata editor is an open source province editor based off [jomini](https://github.com/nickbabcock/jomini)
 - [cwtools](https://github.com/cwtools/cwtools) A library for parsing, editing, and validating Paradox Interactive script files.
 - [hoi4-presence](https://github.com/ThiaudioTT/hoi4-presence) This is a presence for discord that shows what you are doing in Hearts of Iron 4.
+- [eu4-discord-rich-presence](https://github.com/stefastra/eu4-discord-rich-presence) Discord rich presence support for Europa Universalis IV
 - [hoi4modutilities](https://github.com/herbix/hoi4modutilities) A VSCode extension that contains utilities for Heart of Iron IV mods developers
 - [ck3-tiger](https://github.com/amtep/ck3-tiger) Checks Crusader Kings 3 user mod files for common mistakes and warns about them.
+- [Voices_of_the_Court](https://github.com/Demeter29/Voices_of_the_Court) Voices of the Court is a Crusader kings 3 mod that integrates Large Language Models (LLMs) into the gameplay. It lets you hold conversations with the characters and also impact the game state to an extend.
+- [eug](https://github.com/mmyers/eug) Modding tools for Paradox games including Europa Universalis IV and Crusader Kings II
+- [paradox-tools](https://github.com/taw/paradox-tools) Utilities for formats found in various Paradox games (Europa Universalis, Crusader Kings etc.)
+- [EU4dll](https://github.com/matanki-saito/EU4dll) Europa Universalis IV double byte language patch, This dll makes it possible to display double-byte characters on Europa Universalis IV.
 
 ## Games
 
